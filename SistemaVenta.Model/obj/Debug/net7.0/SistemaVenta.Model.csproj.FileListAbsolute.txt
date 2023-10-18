@@ -1,0 +1,14 @@
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Universidad\Programacion Web\Proyecto web\APIProyectoSistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll
