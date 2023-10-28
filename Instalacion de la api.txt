@@ -1,0 +1,18 @@
+Buenas profe aqui le muestro como puede hacer que corra la api de nuestro proyecto 
+
+
+
+1. tener instalado visual studio 2022
+
+2. entra a la consola del administrador de paquetes que se encuentra en herramientas despues administrador 
+de paquetes nuget y consola de administrador de paquete
+
+3. el proyecto determinado tiene que estar en sistemaventa.DAL
+
+4. escribir el siguiente comando Add-Migration ventasDB
+
+5. ya cuando haya sucesido la migracion escribira el siguente comando update-database
+
+6. ya despues utilice los archivos que le se pasaron como NSERTAR DATOS EN TABLAS
+
+7. si alguna cosa comuniquese con Alejandro Ovalle y el resolvera cualquier error que se le presente.
